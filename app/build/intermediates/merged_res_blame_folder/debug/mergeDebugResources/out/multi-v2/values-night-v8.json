@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.movievault.app-mergeDebugResources-2:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "A:\\test\\MovieVault\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "from": {
+                        "startLines": "3,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "90,213",
+                        "endLines": "3,10",
+                        "endColumns": "81,12",
+                        "endOffsets": "167,512"
+                    },
+                    "to": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "141,222",
+                        "endLines": "3,8",
+                        "endColumns": "80,12",
+                        "endOffsets": "217,521"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\23600\\.gradle\\caches\\9.5.1\\transforms\\48a03c296de1b92726f24838bb0ae135\\transformed\\core-splashscreen-1.0.1\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "85",
+                        "endOffsets": "136"
+                    }
+                }
+            ]
+        }
+    ]
+}

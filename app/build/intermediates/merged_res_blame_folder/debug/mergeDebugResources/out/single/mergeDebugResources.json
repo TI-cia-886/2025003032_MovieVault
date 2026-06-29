@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "com.movievault.app-debug-4:/drawable_splash_icon.xml.flat",
+        "source": "com.movievault.app-main-6:/drawable/splash_icon.xml"
+    },
+    {
+        "merged": "com.movievault.app-debug-4:/drawable_ic_launcher_background_layer.xml.flat",
+        "source": "com.movievault.app-main-6:/drawable/ic_launcher_background_layer.xml"
+    },
+    {
+        "merged": "com.movievault.app-debug-4:/mipmap-hdpi_ic_launcher.xml.flat",
+        "source": "com.movievault.app-main-6:/mipmap-hdpi/ic_launcher.xml"
+    },
+    {
+        "merged": "com.movievault.app-debug-4:/drawable_ic_launcher_foreground_layer.xml.flat",
+        "source": "com.movievault.app-main-6:/drawable/ic_launcher_foreground_layer.xml"
+    },
+    {
+        "merged": "com.movievault.app-debug-4:/mipmap-hdpi_ic_launcher_round.xml.flat",
+        "source": "com.movievault.app-main-6:/mipmap-hdpi/ic_launcher_round.xml"
+    }
+]

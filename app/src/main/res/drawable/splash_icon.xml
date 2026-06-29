@@ -1,0 +1,34 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="288dp"
+    android:height="288dp"
+    android:viewportWidth="288"
+    android:viewportHeight="288">
+    <!-- Outer film reel ring -->
+    <path
+        android:fillColor="#E94560"
+        android:pathData="M144,56 C95.4,56 56,95.4 56,144 C56,192.6 95.4,232 144,232 C192.6,232 232,192.6 232,144 C232,95.4 192.6,56 144,56 Z M144,68 C186,68 220,102 220,144 C220,186 186,220 144,220 C102,220 68,186 68,144 C68,102 102,68 144,68 Z"/>
+    <!-- Inner circle -->
+    <path
+        android:fillColor="#0F3460"
+        android:pathData="M144,96 C117.5,96 96,117.5 96,144 C96,170.5 117.5,192 144,192 C170.5,192 192,170.5 192,144 C192,117.5 170.5,96 144,96 Z"/>
+    <!-- Play triangle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M128,120 L128,168 L166,144 Z"/>
+    <!-- Top perforation -->
+    <path
+        android:fillColor="#E94560"
+        android:pathData="M134,60 h20 v12 h-20 z"/>
+    <!-- Bottom perforation -->
+    <path
+        android:fillColor="#E94560"
+        android:pathData="M134,216 h20 v12 h-20 z"/>
+    <!-- Left perforation -->
+    <path
+        android:fillColor="#E94560"
+        android:pathData="M60,134 h12 v20 h-12 z"/>
+    <!-- Right perforation -->
+    <path
+        android:fillColor="#E94560"
+        android:pathData="M216,134 h12 v20 h-12 z"/>
+</vector>

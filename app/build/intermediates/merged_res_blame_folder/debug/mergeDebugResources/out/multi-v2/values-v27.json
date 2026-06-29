@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.movievault.app-mergeDebugResources-2:/values-v27/values-v27.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\23600\\.gradle\\caches\\9.5.1\\transforms\\48a03c296de1b92726f24838bb0ae135\\transformed\\core-splashscreen-1.0.1\\res\\values-v27\\values-v27.xml",
+                    "from": {
+                        "startLines": "2,3,4,7",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,136,229,405",
+                        "endLines": "2,3,6,9",
+                        "endColumns": "80,92,12,12",
+                        "endOffsets": "131,224,400,588"
+                    }
+                }
+            ]
+        }
+    ]
+}
